@@ -1,1 +1,1 @@
-# csInternships2027
+# UKQuantInternships2027

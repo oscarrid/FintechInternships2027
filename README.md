@@ -13,7 +13,7 @@
 ## D. E. Shaw
 - [Systems Engineering Intern (London) - Summer 2027](https://www.deshaw.com/careers/systems-engineering-intern-london-summer-2027-5925)
 
-## Check these every week
+### Check these every week
 - [IMC](https://www.imc.com/eu/search-careers)
 - [Optiver](https://www.optiver.com/join-us/jobs/)
 - [Man Group](https://job-boards.eu.greenhouse.io/mangroup)

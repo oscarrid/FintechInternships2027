@@ -7,6 +7,7 @@
 - [Capula - Trading/Research](https://apply.workable.com/capula-investment-management-ltd/j/A15A62A8BE)
 - [Aquatic Capital Management - Quantitative Researcher, Intern (Summer 2027)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002)
 - [Marshall Wace - Technology Intern - London - 2027](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8598324002?gh_src=myjobs.greenhouse)
+- [Quadrature Capital - Internships](https://job-boards.greenhouse.io/quadraturecapital/jobs/4255974)
 ### Check these every week
 - [IMC](https://www.imc.com/eu/search-careers) — market maker
 - [Optiver](https://www.optiver.com/join-us/jobs/) — market maker

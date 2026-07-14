@@ -1,24 +1,12 @@
 # UK Fintech Internships
-
-## Point72 — multi-strategy hedge fund
-- [Quantitative Software Developer Intern](https://careers.point72.com/CSJobDetail?jobName=quantitative-software-developer-intern&jobCode=CSS-0011537&location=New%20York%20|%20London%20|%20Paris&locale=English&retURL=/CSCareerSearch)
-- [Quantitative Researcher - Intern](https://careers.point72.com/CSJobDetail?jobName=quantitative-researcher-intern&jobCode=CSS-0012598&location=London%20|%20Hong%20Kong%20|%20Tokyo%20|%20Paris&locale=English&retURL=/CSCareerSearch)
-
-## Citadel — multi-strategy hedge fund
-- [Quantitative Research Analyst Intern – BS/MS (Europe)](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/)
-
-## Citadel Securities — market maker
-- [Quantitative Research Analyst Intern – BS/MS (Europe)](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/)
-
-## D. E. Shaw — multi-strategy hedge fund
-- [Systems Engineering Intern (London) - Summer 2027](https://www.deshaw.com/careers/systems-engineering-intern-london-summer-2027-5925)
-
-## Capula — macro/fixed income hedge fund
-- [Trading/Research](https://apply.workable.com/capula-investment-management-ltd/j/A15A62A8BE)
-
-## Aquatic Capital Management — systematic hedge fund
-- [Quantitative Researcher, Intern (Summer 2027)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002)
-
+- [Point72 - Quantitative Software Developer Intern](https://careers.point72.com/CSJobDetail?jobName=quantitative-software-developer-intern&jobCode=CSS-0011537&location=New%20York%20|%20London%20|%20Paris&locale=English&retURL=/CSCareerSearch)
+- [Point72 - Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=quantitative-researcher-intern&jobCode=CSS-0012598&location=London%20|%20Hong%20Kong%20|%20Tokyo%20|%20Paris&locale=English&retURL=/CSCareerSearch)
+- [Citadel - Quantitative Research Analyst Intern – BS/MS (Europe)](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/)
+- [Citadel Securities - Quantitative Research Analyst Intern – BS/MS (Europe)](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/)
+- [D. E. Shaw - Systems Engineering Intern (London) - Summer 2027](https://www.deshaw.com/careers/systems-engineering-intern-london-summer-2027-5925)
+- [Capula - Trading/Research](https://apply.workable.com/capula-investment-management-ltd/j/A15A62A8BE)
+- [Aquatic Capital Management - Quantitative Researcher, Intern (Summer 2027)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002)
+- [Marshall Wace - Technology Intern - London - 2027](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8598324002?gh_src=myjobs.greenhouse)
 ### Check these every week
 - [IMC](https://www.imc.com/eu/search-careers) — market maker
 - [Optiver](https://www.optiver.com/join-us/jobs/) — market maker
@@ -32,3 +20,7 @@
 - [LSEG](https://lseg.wd3.myworkdayjobs.com/Careers?locationCountry=29247e57dbaf46fb855b224e03170bc7&CF_Lookup_Business_Unit_Level_02__Job_Posting_Anchor__Extended=9c1f71183c10016d116d72382401ff75) — exchange and market infrastructure group
 - [Millennium Management (opens August)](https://www.mlp.com/careers/students/) — multi-strategy hedge fund
 - [Starling Bank](https://www.starlingbank.com/careers/#jobs) — digital retail bank
+- [PDT Partners](https://pdtpartners.com/careers) — systematic hedge fund
+- [G-Research](https://www.gresearch.com/vacancies/) — quantitative research firm
+- [Voleon](https://voleon.com/jobs/) — machine learning-driven hedge fund
+- [Virtu Financial](https://www.virtu.com/careers/) — market maker

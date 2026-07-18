@@ -8,6 +8,13 @@
 - [Aquatic Capital Management - Quantitative Researcher, Intern (Summer 2027)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002)
 - [Marshall Wace - Technology Intern - London - 2027](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8598324002?gh_src=myjobs.greenhouse)
 - [Quadrature Capital - Internships](https://job-boards.greenhouse.io/quadraturecapital/jobs/4255974)
+- [Energy Aspects - Quantitative Analyst Internship](https://careers.energyaspects.com/postings/c2cab38e-7ccb-4428-aeec-0ef55b93f18e)
+- [BlackRock - 2027 Summer Internship Program - EMEA](https://careers.blackrock.com/job/london/2027-summer-internship-program-emea/45831/97150826672)
+- [SCOR - Actuarial Intern - Capital Modelling](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5102?utm_medium=jobboard&utm_source=linkedin)
+- [Quantinuum - Internship](https://jobs.eu.lever.co/quantinuum/dc2f6f9e-b409-4640-807d-0339a12dc3cd)
+- [DRW - Software Developer Intern](https://www.drw.com/work-at-drw/listings/software-developer-intern-3450191)
+- [DRW - Quantitative Research Intern](https://www.drw.com/work-at-drw/listings/quantitative-research-intern-3455016)
+- [Virtu Financial - 2027 Internship - Quantitative Strategist and Research Intern](https://job-boards.greenhouse.io/virtu/jobs/8631180002)
 ### Check these every week
 - [IMC](https://www.imc.com/eu/search-careers) — market maker
 - [Optiver](https://www.optiver.com/join-us/jobs/) — market maker
@@ -25,3 +32,4 @@
 - [G-Research](https://www.gresearch.com/vacancies/) — quantitative research firm
 - [Voleon](https://voleon.com/jobs/) — machine learning-driven hedge fund
 - [Virtu Financial](https://www.virtu.com/careers/) — market maker
+- [JPMorgan Chase](https://www.jpmorganchase.com/careers/explore-opportunities/programs) — investment bank
